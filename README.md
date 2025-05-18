@@ -1,3 +1,10 @@
+##### This competition was held on May 15, 2025 at Dotin Company in Mashhad. Our team consisted of:
+- **[Alireza Holghi](https://github.com/Alirez-13)**
+- **[Amirreza Rezaee](https://github.com/LeDerouxe)**
+- **[Ali Ghanbari](https://github.com/AliBinary)**
+- **[Rahmat Ansari](https://github.com/EnAnsari)**
+
+
 <details><summary><h2>problems</h2></summary>
   
 ### problem A:
@@ -11,6 +18,5 @@
 
 ### problem D
 ![image](https://github.com/user-attachments/assets/20d6a276-74e9-4132-b58d-7eda3b2ce222)
-
 
 </details>
